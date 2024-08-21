@@ -1,0 +1,26 @@
+.name{
+    background-color: #fd5d28;
+    width: 125px;
+    border:  2px solid #000000;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+    display: block;
+    margin: 20px auto;
+    z-index: 1;
+}
+.carta{
+    width: 300px;
+    background-color: #ff7b00;
+    border: 2px solid #000000 ;
+    border-radius: 10px;
+    padding:20px;
+    display: block;
+    margin: 20px auto;
+    position: relative;
+    bottom:35px;
+
+}
+
+
+
